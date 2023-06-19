@@ -1,5 +1,21 @@
 # Blog
 
+## 19.06.23
+
+How I Overcame Procrastination 😎
+
+Hello, friends 👋! Today I want to share with you my story of how I managed to overcome procrastination. I’m an experienced programmer, but I always wanted to learn new skills and technologies, but I never had enough motivation or discipline to do it. I was constantly distracted by things that gave me instant gratification, but did not help me achieve my long-term goals 😕.
+
+The first step I took was to stop playing computer games, which drained my motivation by offering quick rewards for useless activity. I realized that I was wasting my time and energy on something that did not bring me any value or satisfaction. I used to play games for hours every day, without any sense of purpose or achievement. I decided to quit gaming cold turkey and delete all the games from my computer. It was hard at first, but I soon noticed that I had more free time and mental space for other things 🙌.
+
+The second step I took was to ban myself from using vk.com and watching youtube shorts, which relieved me of boredom and stimulated me to spend all my time watching useless content (thank God, I never watched TV shows). I stopped using these platforms after reading a review of Cal Newport’s book “Deep Work: Rules for Focused Success in a Distracted World”, and now I’m halfway through the book. It made me aware of the negative effects of social media on my attention and productivity 🧠.
+
+The third step I took was to come up with some clear reward for completing the learning plan. For example, I could buy myself a new book, watch an interesting movie or order a pizza 🍕. As it turned out, I have very modest needs in life, and it was hard for me to come up with a reward that I would strive for, so I had to resort to extreme measures. I forbade myself to use my own money and started paying myself a salary for completing the daily learning plan (I make an exception only when meeting with friends). The threat of going without lunch does not allow me to put things off until later, and a clear reward for achieving some results motivates me to achieve them as soon as possible 💸.
+
+As a result, I managed to get out of the pit of procrastination that I fell into a month ago. I shifted my focus from finding ways to work efficiently to finding topics that I want to spend my work resources on. I feel more confident and happy about myself and my future 😊.
+
+If you want to learn more about how to work deeply and effectively, I highly recommend reading Cal Newport’s book “Deep Work: Rules for Focused Success in a Distracted World”. You can find it here: https://lnkd.in/emSzDsUN 📚.
+
 ## 14.06.23
 
 How learning F# changed the way I think about programming
