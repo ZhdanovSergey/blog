@@ -1,18 +1,18 @@
 ## 05.03.24
 
-9 месяцев назад я прошел курс по языку F# и написал об этом пост на LinkedIn, в котором сказал, что думаю изучить бэкенд-разработку на C#, вкатиться в .NET и возможно когда-нибудь в будущем опробовать F# на практике. В конце июня я составил план обучения и приступил к работе. Вот что я изучил с тех пор:
+9 месяцев назад я прошел курс по языку F# и написал об этом [пост](https://www.linkedin.com/feed/update/urn:li:activity:7074575121566330880/) на LinkedIn, в котором сказал, что думаю изучить бэкенд-разработку на C#, вкатиться в .NET и возможно когда-нибудь в будущем опробовать F# на практике. В конце июня я составил план обучения и приступил к работе. Вот что я изучил с тех пор:
 
-- прошел курс C# для начинающих программистов от OTUS
+- прошел курс [C# для начинающих программистов](https://otus.ru/learning/online/18778/) от OTUS
 
 - просмотрел следующие видеокурсы от ITVDN:
-    ASP.NET Core Базовый
-    ASP.NET Core Углубленный
-    Entity Framework Core
+    - [ASP.NET Core Базовый](https://itvdn.com/ru/video/aspnet-core-essential)
+    - [ASP.NET Core Углубленный](https://itvdn.com/ru/video/aspnetcore-adv)
+    - [Entity Framework Core](https://itvdn.com/ru/video/entity-framework-core)
 
 - прочитал следующие разделы на metanit.com:
-    Полное руководство по C# 12 и .NET 8
-    Дополнительное руководство по платформе .NET
-    Руководство по ASP.NET 8 Core
+    - [Полное руководство по C# 12 и .NET 8](https://metanit.com/sharp/tutorial/)
+    - [Дополнительное руководство по платформе .NET](https://metanit.com/sharp/dotnet/)
+    - [Руководство по ASP.NET 8 Core](https://metanit.com/sharp/aspnet6/)
 
 - писал и продолжаю писать учебный проект, в котором применяю изученные технологии https://github.com/ZhdanovSergey/CarPark
 
